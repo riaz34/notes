@@ -204,8 +204,8 @@
       2) run with python3 phonesploit.py
       3) Enter the IP
       4) type 4 to get the shell
-      5) search of the file
-     6) to download exit from the shell then enter 9 then give the file path /
+      5) search for the file
+      6) to download exit from the shell then enter 9 then give the file path /
 
 
 
